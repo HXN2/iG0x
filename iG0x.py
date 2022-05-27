@@ -15,7 +15,7 @@ except ModuleNotFoundError:
     os.system("pip install platform")
     os.system("pip install colorama")
     os.system("pip install Today")
-    os.system("pip install Date")
+    os.system("pip install datetime")
     os.system("pip install os")
     os.system("pip install time")
 import webbrowser
