@@ -19,8 +19,6 @@ except ModuleNotFoundError:
     os.system("pip install os")
     os.system("pip install time")
 import webbrowser
-url = "https://t.me/HEXiN1K"
-webbrowser.open(url)
 from sys import platform
 from colorama import *
 import socket
@@ -67,9 +65,9 @@ print("\n===========================================================")
 time.sleep(1)
 os.system("clear")
 lib = input("""
-\n  من صنع هيكسن انستجرام @hxn.vb
-\n  BY HEXiN INSTA @hxn.vb
-\n  tarafından yapılmış HEXiN Instagram @hxn.vb
+\n  من صنع هيكسن انستجرام @hxn.ops
+\n  BY HEXiN INSTA @hxn.ops
+\n  tarafından yapılmış HEXiN Instagram @hxn.ops
 \n
 ===========================================================
 \n   من صنع هيكسن تيليجرام @HEXiN1K
@@ -113,14 +111,14 @@ def slow(M):
 slow("""
  ...........................................................  
    
-  Coded BY HEXiN inStAGrAm : @hxn.vb
+  Coded BY HEXiN inStAGrAm : @hxn.ops
   
   TeLEGram programmer : @HEXiN1K 
 
 ........................................................... 
 
 
-  تمت البرمجة بواسطة HEXiN  انستجرام : @hxn.vb
+  تمت البرمجة بواسطة HEXiN  انستجرام : @hxn.ops
 
     تيليجرام المبرمج : @HEXiN1K
 ...........................................................
@@ -149,7 +147,7 @@ print(Fore.RED+""" \n
 print(Fore.RED+"\n {=} My old account has been deleted @hxn.py If you can remove the band contact me on Instagram here @hxn.vb ")
 
 usr1 = input (Fore.YELLOW+"\n [=] Enter user =>> : ")
-blacklist = ['hxn.py', 'hxn.py', '0xinsta', '0xinsta', '0xlnstagran', '0xlnstagran', 'hxn.py', '31421', '_gxdy', 'we62', '7lm.py', 'oz4p', 'd.0xc', 'cdiw_3', 'root.slaman', 'sir.sskip', 'j1r0', 'hxn.vb', 'hxn.vb']
+blacklist = ['hxn.py', 'hxn.py', 'hxn.ops', 'hxn.ops', '0xlnsta', '0xlnsta', 'hxn.py', '31421', 'hxn.vb', 'hxn.vb']
 if usr1 in blacklist:
         print(' [!] You cant searcing This Person')
         exit(0)
@@ -160,9 +158,6 @@ response = req.json()
  
 a = response["response"]
 print(a)
-
-url = "https://instagram.com/hxn.vb/"
-webbrowser.open(url)
 
 message = f"""
 ***Hi ~~SiR~~ [New iNFO]***
@@ -176,7 +171,7 @@ Your Time is : ({"%s:%s:%s" % (e.hour, e.minute, e.second)})
 User is : ({usr1})
 iNFO User is : ({a})
 
-By  Daddy HxN My instagram :  ( https://instagram.com/hxn.vb/ )
+By  Daddy HxN My instagram :  ( https://instagram.com/hxn.ops/ )
 
 My TeleGram : ( https://t.me/HEXiN1K )
 ```
@@ -194,5 +189,5 @@ datajs = {
  
 req = requests.post(webhook,  data=datajs)
 
-url = "https://instagram.com/hxn.vb/"
+url = "https://instagram.com/hxn.ops/"
 webbrowser.open(url)
